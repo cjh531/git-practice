@@ -6,7 +6,8 @@ let shoppingList = [
   "Niz 键盘",
   "外星人电脑",
   "女装(偷偷)",
-  "水杯"
+  "水杯",
+  "男装"
 ]
 
 function buy(list, goods) {
